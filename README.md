@@ -6,7 +6,7 @@
 ###
 
 <p align=”center”>
-<img width="200" height="200" src="banner copy.jpg" alt="my banner">
+<img src="banner copy.jpg" alt="my banner">
 
 
 </p>
