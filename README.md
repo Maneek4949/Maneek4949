@@ -1,7 +1,5 @@
 <img src="banner copy.jpg"/>
 <h2 align="left">Hi 👋! My name is Manoj Kumar Prajapati and I'm a Full Stack Developer, from India</h2>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maneek4949.Maneek4949)
-(https://github.com/Maneek4949) [![GitHub followers](https://img.shields.io/github/followers/Maneek4949.svg?style=social&label=Follow)](https://github.com/Maneek4949?tab=followers)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
