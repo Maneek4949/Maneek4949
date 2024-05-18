@@ -1,5 +1,5 @@
 <img src="banner copy.jpg"/>
-<h2 align="left">Hey hey! 👋 Manoj Kumar Prajapati at your service, the coding maestro mastering the art of Full Stack wizardry, all the way from the colorful lands of India!</h2>
+<h2 align="left">👋 Manoj Kumar Prajapati: Indian coding maestro, mastering Full Stack wizardry from vibrant India!</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
