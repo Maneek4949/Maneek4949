@@ -5,7 +5,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align=”center”>
+
+<img width=”200" height=”200" src=”![banner copy](https://github.com/Maneek4949/Maneek4949/assets/69102431/80d5ff72-f6f0-4d72-be32-60a1e27450ac)
+" alt=”my banner”>
+
+</p>
 
 ###
 
