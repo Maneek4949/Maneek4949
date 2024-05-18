@@ -6,7 +6,7 @@
 ###
 
 <p align=”center”>
-<img width="200" height="200" src="https://github.com/Maneek4949/Maneek4949/raw/main/assets/69102431/80d5ff72-f6f0-4d72-be32-60a1e27450ac/banner.jpg" alt="my banner">
+<img width="200" height="200" src="banner copy.jpg" alt="my banner">
 
 
 </p>
